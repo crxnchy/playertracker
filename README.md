@@ -2,7 +2,7 @@
 
 This is a datapack for 1.21 that allows you to track players with a Player Tracking Compass. It is crafted with a compass, a netherite scrap, 2 echo shards, an ender eye and 4 diamonds, but you can change the recipe in [its JSON file](./data/playertracker/recipe/player_compass.json).
 
-![Crafting recipe](./.share/recipe.png)
+![Crafting recipe](<img width="151" height="136" alt="image" src="https://github.com/user-attachments/assets/3a0e35c2-4c5e-4026-9e40-93c9d5b0303b" />)
 
 You can select a player by right-clicking the player compass and selecting the player to track. If the recipe isn't showing up, you may need to give yourself the recipe with this command:
 
