@@ -7,10 +7,10 @@
     ],
     "key": {
         "D": {
-            "item": "minecraft:diamond"
+            "item": "minecraft:netherite_scrap"
         },
         "N": {
-            "item": "minecraft:netherite_scrap"
+            "item": "minecraft:wither_skeleton_skull"
         },
         "S": {
             "item": "minecraft:echo_shard"
